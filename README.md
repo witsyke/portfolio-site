@@ -1,6 +1,6 @@
-# Paul Mendoza's Portfolio Site
+# Simon Witzke's Portfolio Site
 
-Hey this is the source code for my portfolio site: https://doza.design
+This is adapted from @qdozaq who's portfolio is at https://doza.design
 
 To run:
 
